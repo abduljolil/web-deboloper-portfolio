@@ -7,6 +7,7 @@ nav {
     display:flex;
     justify-content:space-between;
     align-items:  center;
+    margin-left: 200px;
 }
 .nav-titl{
     color: #181818;
@@ -41,4 +42,16 @@ ul >li{
 nav a{
     text-decoration: none;
     color:   #474747;
+}
+/* header reletive style */
+.header{
+    background-color:#FFF;;
+}
+.benar{
+    display:  flex;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+}
+.photo{
+    width: 500px;
 }
